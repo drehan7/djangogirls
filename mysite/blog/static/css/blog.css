@@ -6,6 +6,7 @@ h2 a {
 
 body {
   padding-left: 15px;
+  border: 1px solid black;
 }
 
 .page-header {
